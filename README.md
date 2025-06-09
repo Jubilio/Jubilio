@@ -49,14 +49,10 @@
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Jubilio&layout=compact&theme=dracula&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Jubilio&layout=compact&theme=dracula&locale=pt-br&count_private=true"
     height="150"
     alt="Top Languages"
   />
-
-<!-- START_LANGUAGES -->
-_Atualizando as linguagens…_
-<!-- END_LANGUAGES -->
 
 </div>
 
