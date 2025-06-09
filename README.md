@@ -44,7 +44,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <!-- Badges de redes sociais -->
   <a href="https://www.youtube.com/@deepgeoprogramming" target="_blank">
     <img
