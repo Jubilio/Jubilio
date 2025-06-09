@@ -2,7 +2,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <!-- GitHub Stats -->
   <img
   src="https://github-readme-stats.vercel.app/api?username=Jubilio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false"
@@ -65,10 +65,6 @@
 
 ###
 
-<br clear="both">
-
-<!-- Animação Snake (opcional) -->
-<img src="https://raw.githubusercontent.com/Jubilio/Jubilio/output/snake.svg" alt="Snake animation" />
 
 ###
 
