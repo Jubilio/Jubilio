@@ -53,6 +53,11 @@
     height="150"
     alt="Top Languages"
   />
+
+<!-- START_LANGUAGES -->
+_Atualizando as linguagens…_
+<!-- END_LANGUAGES -->
+
 </div>
 
 ---
