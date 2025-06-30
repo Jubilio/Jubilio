@@ -82,3 +82,26 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/Jubilio/count.svg" alt="Visitor Count" />
 </p>
+<!-- START_LANGUAGES -->
+| Linguagem | % do código |
+|---|---|
+| Python | 86.5% |
+| C++ | 8.6% |
+| Cython | 3.3% |
+| C | 0.9% |
+| JavaScript | 0.3% |
+| TypeScript | 0.1% |
+| HTML | 0.1% |
+| Fortran | 0.1% |
+| Java | 0.1% |
+| PowerShell | 0.0% |
+| Go | 0.0% |
+| CSS | 0.0% |
+| Smarty | 0.0% |
+| Meson | 0.0% |
+| Batchfile | 0.0% |
+| CMake | 0.0% |
+| Jinja | 0.0% |
+| Dockerfile | 0.0% |
+| SCSS | 0.0% |
+<!-- END_LANGUAGES -->
