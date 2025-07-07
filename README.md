@@ -89,7 +89,7 @@
 | C++ | 8.6% |
 | Cython | 3.3% |
 | C | 0.9% |
-| JavaScript | 0.3% |
+| JavaScript | 0.4% |
 | TypeScript | 0.1% |
 | HTML | 0.1% |
 | Fortran | 0.1% |
