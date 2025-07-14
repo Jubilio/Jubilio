@@ -85,23 +85,25 @@
 <!-- START_LANGUAGES -->
 | Linguagem | % do código |
 |---|---|
-| Python | 86.5% |
-| C++ | 8.6% |
-| Cython | 3.3% |
-| C | 0.9% |
-| JavaScript | 0.4% |
-| TypeScript | 0.1% |
+| Python | 91.8% |
+| C++ | 4.9% |
+| Cython | 1.9% |
+| C | 0.8% |
+| JavaScript | 0.2% |
 | HTML | 0.1% |
 | Fortran | 0.1% |
-| Java | 0.1% |
+| TypeScript | 0.1% |
 | PowerShell | 0.0% |
-| Go | 0.0% |
 | CSS | 0.0% |
+| Java | 0.0% |
 | Smarty | 0.0% |
+| Go | 0.0% |
 | Meson | 0.0% |
+| Roff | 0.0% |
 | Batchfile | 0.0% |
 | CMake | 0.0% |
 | Jinja | 0.0% |
 | Dockerfile | 0.0% |
 | SCSS | 0.0% |
+| Shell | 0.0% |
 <!-- END_LANGUAGES -->
