@@ -42,21 +42,31 @@
 ## 📈 Estatísticas
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Jubilio&show_icons=true&theme=dracula&locale=pt-br"
-    height="150"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Jubilio&layout=compact&theme=dracula&locale=pt-br&count_private=true"
-    height="150"
-    alt="Top Languages"
-  />
-
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/Jubilio">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Jubilio
+            &show_icons=true
+            &theme=dracula
+            &locale=pt-br
+            &include_all_commits=true"
+      alt="📊 Estatísticas do GitHub"
+    />
+  </a>
+  <!-- Top Languages Card -->
+  <a href="https://github.com/Jubilio?tab=repositories">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs
+            ?username=Jubilio
+            &layout=compact
+            &theme=dracula
+            &langs_count=8
+            &exclude_repo=Jubilio
+            &count_private=true"
+      alt="🛠️ Principais Linguagens"
+    />
+  </a>
 </div>
-
----
 
 ## 📫 Redes Sociais
 
@@ -78,29 +88,3 @@
 </div>
 
 ---
-<!-- START_LANGUAGES -->
-| Linguagem | % do código |
-|---|---|
-| Python | 91.5% |
-| C++ | 4.9% |
-| Cython | 1.9% |
-| C | 0.8% |
-| TypeScript | 0.3% |
-| JavaScript | 0.2% |
-| HTML | 0.1% |
-| Fortran | 0.1% |
-| PowerShell | 0.0% |
-| CSS | 0.0% |
-| Java | 0.0% |
-| Lua | 0.0% |
-| Smarty | 0.0% |
-| Go | 0.0% |
-| Meson | 0.0% |
-| Roff | 0.0% |
-| Shell | 0.0% |
-| Batchfile | 0.0% |
-| Dockerfile | 0.0% |
-| CMake | 0.0% |
-| Jinja | 0.0% |
-| SCSS | 0.0% |
-<!-- END_LANGUAGES -->
