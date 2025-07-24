@@ -42,31 +42,21 @@
 ## 📈 Estatísticas
 
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/Jubilio">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Jubilio
-            &show_icons=true
-            &theme=dracula
-            &locale=pt-br
-            &include_all_commits=true"
-      alt="📊 Estatísticas do GitHub"
-    />
-  </a>
-  <!-- Top Languages Card -->
-  <a href="https://github.com/Jubilio?tab=repositories">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs
-            ?username=Jubilio
-            &layout=compact
-            &theme=dracula
-            &langs_count=8
-            &exclude_repo=Jubilio
-            &count_private=true"
-      alt="🛠️ Principais Linguagens"
-    />
-  </a>
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Jubilio&show_icons=true&theme=dracula&locale=pt-br"
+    height="150"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Jubilio&layout=compact&theme=dracula&locale=pt-br&count_private=true"
+    height="150"
+    alt="Top Languages"
+  />
+
 </div>
+
+---
 
 ## 📫 Redes Sociais
 
