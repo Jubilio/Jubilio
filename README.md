@@ -100,6 +100,7 @@
 | Shell | 0.0% |
 | Batchfile | 0.0% |
 | Dockerfile | 0.0% |
+| Rust | 0.0% |
 | CMake | 0.0% |
 | Jinja | 0.0% |
 | SCSS | 0.0% |
