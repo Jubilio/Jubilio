@@ -48,19 +48,6 @@ Event-Driven Architecture, Distributed Systems
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=Jubilio&layout=compact&theme=dark" 
-  height="150"
-/>
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
