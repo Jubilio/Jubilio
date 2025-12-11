@@ -100,6 +100,60 @@ Event-Driven Architecture, Distributed Systems
       </p>
     </td>
   </tr>
+
+  <!-- NEW PROJECTS -->
+  <tr>
+    <td width="50%">
+      <h3 align="center" style="color:white;">Wedding WebApp (Binth & Jubílio)</h3>
+      <p align="center" style="color:#cfcfcf;">
+        Elegant wedding invitation web app with RSVP, gallery, countdown, and custom design.
+      </p>
+      <p align="center">
+        <a href="https://github.com/Jubilio/casamento-binth-jubilio">
+          <img src="https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+
+    <td width="50%">
+      <h3 align="center" style="color:white;">Nmap Ethical Brute Scripts</h3>
+      <p align="center" style="color:#cfcfcf;">
+        Custom-built Nmap NSE scripts for ethical security testing: SSH, FTP, HTTP Auth brute-force.
+      </p>
+      <p align="center">
+        <a href="https://github.com/Jubilio/nmap-scripts-ethical-brute">
+          <img src="https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3 align="center" style="color:white;">CensureMe</h3>
+      <p align="center" style="color:#cfcfcf;">
+        Browser extension using AI to automatically censor specific visual content in streaming platforms.
+      </p>
+      <p align="center">
+        <a href="https://github.com/Jubilio/censureme">
+          <img src="https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+
+    <td width="50%">
+      <h3 align="center" style="color:white;">Risk Monitoring Panel</h3>
+      <p align="center" style="color:#cfcfcf;">
+        Intelligent geospatial system for real-time monitoring of natural hazards, climate data, and risk zones.
+      </p>
+      <p align="center">
+        <a href="https://github.com/Jubilio/Risk_Monitoring_Panel">
+          <img src="https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
 </table>
 </div>
 
