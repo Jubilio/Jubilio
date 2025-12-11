@@ -3,15 +3,11 @@
   <img src="./banner.svg" width="100%" />
 </p>
 
-<h2 align="center" style="color:white;">Jubílio Maússe</h2>
-<p align="center" style="color:#cfcfcf;">Full-Stack Developer • GIS & Geoprogramming • Distributed Systems</p>
-
 <div align="center">
 
 <!-- Dynamic Badges -->
 <img src="https://img.shields.io/github/followers/Jubilio?style=flat-square&color=white&labelColor=000" />
 <img src="https://img.shields.io/github/stars/Jubilio?style=flat-square&color=white&labelColor=000" />
-<img src="https://img.shields.io/github/commit-activity/m/Jubilio?style=flat-square&color=white&labelColor=000" />
 
 <!-- Tech Stack Badges -->
 <img src="https://img.shields.io/badge/Java-000?style=flat&logo=java&logoColor=ED8B00" />
