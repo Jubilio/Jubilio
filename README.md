@@ -48,65 +48,15 @@ Event-Driven Architecture, Distributed Systems
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 My Projects
 
 <div align="center">
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center" style="color:white;">WebGIS Platform</h3>
-      <p align="center" style="color:#cfcfcf;">
-        Modern WebGIS platform with geospatial processing, dynamic visualization, and REST APIs.
-      </p>
-      <p align="center">
-        <a href="https://github.com/Jubilio/webgis-platform">
-          <img src="https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center" style="color:white;">Event-Driven Microservices</h3>
-      <p align="center" style="color:#cfcfcf;">
-        Distributed architecture built with Spring Boot, Kafka, and Docker for high scalability.
-      </p>
-      <p align="center">
-        <a href="https://github.com/Jubilio/event-driven-platform">
-          <img src="https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center" style="color:white;">GeoAnalytics Engine</h3>
-      <p align="center" style="color:#cfcfcf;">
-        Automated geospatial analytics engine with ETL pipelines and PostGIS integration.
-      </p>
-      <p align="center">
-        <a href="https://github.com/Jubilio/geoanalytics-engine">
-          <img src="https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center" style="color:white;">Full-Stack Template</h3>
-      <p align="center" style="color:#cfcfcf;">
-        Production-ready template with Spring Boot backend, React frontend, and Dockerized CI/CD.
-      </p>
-      <p align="center">
-        <a href="https://github.com/Jubilio/fullstack-template">
-          <img src="https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-
-  <!-- NEW PROJECTS -->
-  <tr>
-    <td width="50%">
       <h3 align="center" style="color:white;">Wedding WebApp (Binth & Jubílio)</h3>
       <p align="center" style="color:#cfcfcf;">
-        Elegant wedding invitation web app with RSVP, gallery, countdown, and custom design.
+        Elegant wedding invitation web app with RSVP, gallery, countdown, and custom UI.
       </p>
       <p align="center">
         <a href="https://github.com/Jubilio/casamento-binth-jubilio">
@@ -118,7 +68,7 @@ Event-Driven Architecture, Distributed Systems
     <td width="50%">
       <h3 align="center" style="color:white;">Nmap Ethical Brute Scripts</h3>
       <p align="center" style="color:#cfcfcf;">
-        Custom-built Nmap NSE scripts for ethical security testing: SSH, FTP, HTTP Auth brute-force.
+        Custom Nmap NSE scripts for ethical penetration testing: SSH, FTP, HTTP Auth brute-force.
       </p>
       <p align="center">
         <a href="https://github.com/Jubilio/nmap-scripts-ethical-brute">
@@ -132,7 +82,7 @@ Event-Driven Architecture, Distributed Systems
     <td width="50%">
       <h3 align="center" style="color:white;">CensureMe</h3>
       <p align="center" style="color:#cfcfcf;">
-        Browser extension using AI to automatically censor specific visual content in streaming platforms.
+        Browser extension using AI to automatically censor selected content in streaming platforms.
       </p>
       <p align="center">
         <a href="https://github.com/Jubilio/censureme">
@@ -144,7 +94,7 @@ Event-Driven Architecture, Distributed Systems
     <td width="50%">
       <h3 align="center" style="color:white;">Risk Monitoring Panel</h3>
       <p align="center" style="color:#cfcfcf;">
-        Intelligent geospatial system for real-time monitoring of natural hazards, climate data, and risk zones.
+        Intelligent geospatial dashboard for real-time risk monitoring, climate data and hazard zones.
       </p>
       <p align="center">
         <a href="https://github.com/Jubilio/Risk_Monitoring_Panel">
@@ -161,5 +111,16 @@ Event-Driven Architecture, Distributed Systems
 
 ## 📬 Contact
 
-- LinkedIn: https://linkedin.com/in/jubilio-mausse  
-- YouTube: https://youtube.com/@deepgeoprogramming  
+<p align="center">
+
+<a href="https://youtube.com/@deepgeoprogramming" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/jubilio-mausse" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+</a>
+
+</p>
