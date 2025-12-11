@@ -50,10 +50,9 @@ Event-Driven Architecture, Distributed Systems
 
 ## 🚀 My Projects
 
-<div align="center">
-<table>
+<table align="center">
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center" style="color:white;">Wedding WebApp (Binth & Jubílio)</h3>
       <p align="center" style="color:#cfcfcf;">
         Elegant wedding invitation web app with RSVP, gallery, countdown, and custom UI.
@@ -65,7 +64,7 @@ Event-Driven Architecture, Distributed Systems
       </p>
     </td>
 
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center" style="color:white;">Nmap Ethical Brute Scripts</h3>
       <p align="center" style="color:#cfcfcf;">
         Custom Nmap NSE scripts for ethical penetration testing: SSH, FTP, HTTP Auth brute-force.
@@ -79,7 +78,7 @@ Event-Driven Architecture, Distributed Systems
   </tr>
 
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center" style="color:white;">CensureMe</h3>
       <p align="center" style="color:#cfcfcf;">
         Browser extension using AI to automatically censor selected content in streaming platforms.
@@ -91,7 +90,7 @@ Event-Driven Architecture, Distributed Systems
       </p>
     </td>
 
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center" style="color:white;">Risk Monitoring Panel</h3>
       <p align="center" style="color:#cfcfcf;">
         Intelligent geospatial dashboard for real-time risk monitoring, climate data and hazard zones.
@@ -103,24 +102,20 @@ Event-Driven Architecture, Distributed Systems
       </p>
     </td>
   </tr>
-
 </table>
-</div>
 
 ---
 
 ## 📬 Contact
 
 <p align="center">
+  <a href="https://youtube.com/@deepgeoprogramming" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" />
+  </a>
 
-<a href="https://youtube.com/@deepgeoprogramming" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40" />
-</a>
+  &nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/jubilio-mausse" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
-</a>
-
+  <a href="https://linkedin.com/in/jubilio-mausse" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  </a>
 </p>
