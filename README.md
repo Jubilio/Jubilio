@@ -88,3 +88,30 @@ Currently expanding expertise in Kubernetes, Terraform, and cloud-native archite
 </p>
 
 ---
+<!-- START_LANGUAGES -->
+| Linguagem | % do código |
+|---|---|
+| Python | 91.1% |
+| C++ | 4.8% |
+| Cython | 1.9% |
+| C | 0.8% |
+| TypeScript | 0.5% |
+| JavaScript | 0.4% |
+| HTML | 0.1% |
+| Fortran | 0.1% |
+| CSS | 0.1% |
+| PowerShell | 0.0% |
+| Java | 0.0% |
+| Lua | 0.0% |
+| Smarty | 0.0% |
+| Go | 0.0% |
+| Meson | 0.0% |
+| Batchfile | 0.0% |
+| Roff | 0.0% |
+| Shell | 0.0% |
+| Dockerfile | 0.0% |
+| Rust | 0.0% |
+| CMake | 0.0% |
+| Jinja | 0.0% |
+| SCSS | 0.0% |
+<!-- END_LANGUAGES -->
