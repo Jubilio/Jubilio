@@ -96,10 +96,10 @@ Currently expanding expertise in Kubernetes, Terraform, and cloud-native archite
 | Cython | 1.9% |
 | C | 0.8% |
 | TypeScript | 0.5% |
-| JavaScript | 0.4% |
+| JavaScript | 0.5% |
 | HTML | 0.1% |
-| Fortran | 0.1% |
 | CSS | 0.1% |
+| Fortran | 0.1% |
 | PowerShell | 0.0% |
 | Java | 0.0% |
 | Lua | 0.0% |
