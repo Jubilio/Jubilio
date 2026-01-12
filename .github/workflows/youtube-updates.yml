@@ -1,0 +1,21 @@
+name: Latest YouTube Videos
+
+on:
+  schedule:
+    # Runs every hour
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-youtube:
+    name: Update this repo's README with latest videos from YouTube
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "YOUTUBE"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC6qjEGW_tH_uwPXeQJ8_w_Q" # Replace with actual channel ID if different from @deepgeoprogramming's ID. Assuming standard ID lookup needs to be verified or user provided.
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          date_format: "mmm d, yyyy"
+          template: "$newline- [$title]($url) ($date)"
