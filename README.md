@@ -59,7 +59,11 @@ Currently expanding expertise in Kubernetes, Terraform, and cloud-native archite
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+- [Ai machine learning and deep learning explained #coding #chatgpt #windows](https://www.youtube.com/shorts/fKZnJ28EiIg) (Oct 28, 2025)
+- [The 3 types of computer vision in ai #smartphone #coding #tech](https://www.youtube.com/shorts/9c3iQlPGWOo) (Oct 28, 2025)
+- [How to track any device in the world #cybersecurity #cyberawareness](https://www.youtube.com/shorts/vScWdGmUFjQ) (Oct 28, 2025)
+- [“Como Criar Mapas de Fluxo no ArcGIS Pro e Leafmap &lpar;Tutorial Completo GIS 2025&rpar;](https://www.youtube.com/watch?v=yli9kmXQghg) (Sep 16, 2025)
+- [Conheça o WiGLE-WiFi e Encontre Pessoas #cyberawareness #wigle #wifi](https://www.youtube.com/shorts/IMt1FrUAYe4) (Sep 15, 2025)<!-- YOUTUBE:END -->
 
 ---
 
