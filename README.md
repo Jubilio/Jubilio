@@ -1,3 +1,6 @@
+<!-- markdownlint-disable MD033 -->
+# Jubílio Maússe
+
 <!-- Banner: put `banner.svg` at the repository root -->
 <p align="center">
   <img src="./banner.svg" alt="Jubílio Maússe — Banner" />
@@ -54,10 +57,6 @@ Currently expanding expertise in Kubernetes, Terraform, and cloud-native archite
         </a>
       </p>
     </td>
-
-  </tr>
-
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">CensureMe</h3>
       <p align="center">
@@ -69,7 +68,6 @@ Currently expanding expertise in Kubernetes, Terraform, and cloud-native archite
         </a>
       </p>
     </td>
-
   </tr>
 </table>
 
@@ -89,8 +87,8 @@ Currently expanding expertise in Kubernetes, Terraform, and cloud-native archite
 
 ---
 <!-- START_LANGUAGES -->
-| Linguagem | % do código |
-|---|---|
+| Language | % of code |
+| --- | --- |
 | Python | 90.9% |
 | C++ | 4.8% |
 | Cython | 1.9% |
@@ -98,20 +96,4 @@ Currently expanding expertise in Kubernetes, Terraform, and cloud-native archite
 | TypeScript | 0.6% |
 | JavaScript | 0.4% |
 | HTML | 0.2% |
-| CSS | 0.1% |
-| Fortran | 0.1% |
-| PowerShell | 0.0% |
-| Java | 0.0% |
-| Lua | 0.0% |
-| Smarty | 0.0% |
-| Go | 0.0% |
-| Meson | 0.0% |
-| Batchfile | 0.0% |
-| Roff | 0.0% |
-| Shell | 0.0% |
-| Dockerfile | 0.0% |
-| Rust | 0.0% |
-| CMake | 0.0% |
-| Jinja | 0.0% |
-| SCSS | 0.0% |
 <!-- END_LANGUAGES -->
