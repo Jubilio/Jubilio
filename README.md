@@ -129,5 +129,5 @@ Currently expanding expertise in Kubernetes, Terraform, and cloud-native archite
 | TypeScript | 1.6% |
 | C | 0.8% |
 | HTML | 0.2% |
-| CSS | 0.2% |
+| CSS | 0.1% |
 <!-- END_LANGUAGES -->
