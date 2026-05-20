@@ -122,9 +122,9 @@ Currently expanding expertise in Kubernetes, Terraform, and cloud-native archite
 <!-- START_LANGUAGES -->
 | Language | % of code |
 | --- | --- |
-| Python | 88.6% |
+| Python | 88.5% |
 | C++ | 4.7% |
-| JavaScript | 1.9% |
+| JavaScript | 2.0% |
 | Cython | 1.8% |
 | TypeScript | 1.6% |
 | C | 0.8% |
