@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Senior Assessment Officer · Geospatial Data Scientist · Applied Software Developer</strong>
+  <strong>Senior Data and GIS Officer|Analyst · Geospatial Data Scientist · Applied Software Developer</strong>
 </p>
 
 <p align="center">
