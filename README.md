@@ -100,10 +100,9 @@ My work combines field assessment methodologies, KoboToolbox/XLSForm design, dat
 Tutorials and demonstrations on GIS, programming, data workflows and applied technology are published on **Deep Geoprogramming**.
 
 <!-- YOUTUBE:START -->
+- [Como Converter Centenas de Ficheiros GPX no QGIS | GPX Batch Converter](https://www.youtube.com/watch?v=kCREW8WA4kA) (Jul 23, 2026)
 - [XLSForm AI Translator – Translate Kobo/XLSForm Surveys Faster with AI](https://www.youtube.com/watch?v=fkSzCGnISjM) (Jul 22, 2026)
-- [Ai machine learning and deep learning explained #coding #chatgpt #windows](https://www.youtube.com/shorts/fKZnJ28EiIg) (Oct 28, 2025)
-- [The 3 types of computer vision in ai #smartphone #coding #tech](https://www.youtube.com/shorts/9c3iQlPGWOo) (Oct 28, 2025)
-<!-- YOUTUBE:END -->
+- [Ai machine learning and deep learning explained #coding #chatgpt #windows](https://www.youtube.com/shorts/fKZnJ28EiIg) (Oct 28, 2025)<!-- YOUTUBE:END -->
 
 ## Collaboration
 
